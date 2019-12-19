@@ -1,0 +1,6 @@
+{
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.packageManager": "yarn",
+  "prettier.trailingComma": "all"
+}
